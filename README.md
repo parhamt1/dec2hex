@@ -1,2 +1,3 @@
 # This app get a decimal number and convert it to hexadecimal
 # by a 13 years old programmer
+run the app with python3
